@@ -1,0 +1,5 @@
+.build/
+build/
+oturum.md
+.DS_Store
+*.bin
