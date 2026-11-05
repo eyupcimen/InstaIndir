@@ -3,3 +3,4 @@ build/
 oturum.md
 .DS_Store
 *.bin
+__pycache__/
